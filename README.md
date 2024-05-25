@@ -1,4 +1,4 @@
-### Languages:
+### Languages and tools:
 
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
