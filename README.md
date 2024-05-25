@@ -1,4 +1,4 @@
-### Languages and tools:
+### Languages and Frameworks:
 
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
