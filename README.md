@@ -1,5 +1,5 @@
 
-### Languages and Frameworks:
+### Languages and Tools:
 <p align="left">
   <a href="https://www.dart.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
