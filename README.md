@@ -19,7 +19,7 @@
   <a href="https://logospng.org/d/?l=aHR0cHM6Ly9sb2dvc3BuZy5vcmcvZG93bmxvYWQvaHRtbC01L2xvZ28taHRtbC01LTc2OC5wbmd8TG9nbyBIVE1MIDV8SFRNTDUgZSB1bWEgbGluZ3VhZ2VtIGRlIG1hcmNhY2FvIHVzYWRhIHBhcmEgZXN0cnV0dXJhciBlIGFwcmVzZW50YXIgY29udGV1ZG8gbmEgV29ybGQgV2lkZSBXZWIu" target="_blank" rel="noreferrer">
     <img src="https://logospng.org/download/html-5/logo-html-5-768.png" width="40" height="40"/>
   </a>
-   <a href="https://www.flaticon.es/icono-gratis/css-3_5968242?term=css&page=1&position=4&origin=search&related_id=5968242" target="_blank" rel="noreferrer">
+   <a href="https://www.flaticon.es/resultados?word=css" target="_blank" rel="noreferrer">
     <img src="https://www.flaticon.es/icono-gratis/css-3_5968242?term=css&page=1&position=4&origin=search&related_id=5968242" width="40" height="40"/>
   </a>
 </p>
