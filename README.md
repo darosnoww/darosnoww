@@ -22,6 +22,9 @@
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   </a>
+  <a href="https://nodejs.org/en/about/branding" target="_blank" rel="noreferrer">
+    <img src="https://nodejs.org/static/logos/nodejsLight.svg" width="40" height="40"/>
+  </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40"/>
   </a>
