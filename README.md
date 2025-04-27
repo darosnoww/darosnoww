@@ -19,6 +19,9 @@
   <a href="https://logospng.org/d/?l=aHR0cHM6Ly9sb2dvc3BuZy5vcmcvZG93bmxvYWQvaHRtbC01L2xvZ28taHRtbC01LTc2OC5wbmd8TG9nbyBIVE1MIDV8SFRNTDUgZSB1bWEgbGluZ3VhZ2VtIGRlIG1hcmNhY2FvIHVzYWRhIHBhcmEgZXN0cnV0dXJhciBlIGFwcmVzZW50YXIgY29udGV1ZG8gbmEgV29ybGQgV2lkZSBXZWIu" target="_blank" rel="noreferrer">
     <img src="https://logospng.org/download/html-5/logo-html-5-768.png" width="40" height="40"/>
   </a>
+   <a href="https://pngdownload.io/png-image/css-logo-png-symbol-for-web-development-transparent/" target="_blank" rel="noreferrer">
+    <img src="https://pngdownload.io/png-image/css-logo-png-symbol-for-web-development-transparent/" width="40" height="40"/>
+  </a>
 </p>
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1kNTNkamN3Z3VteDNwbXYyODlpdDVmeG0yejV6bjl6ZHNhOXdqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Hw0wIr1YL75VC/giphy.gif" alt="GIF" width="300" />
