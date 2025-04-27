@@ -16,8 +16,8 @@
    <a href="https://es.wikipedia.org/wiki/Archivo:JavaScript-logo.png" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
   </a>
-  <a href="https://logospng.org/d/?l=aHR0cHM6Ly9sb2dvc3BuZy5vcmcvZG93bmxvYWQvaHRtbC01L2xvZ28taHRtbC01LTc2OC5wbmd8TG9nbyBIVE1MIDV8SFRNTDUgZSB1bWEgbGluZ3VhZ2VtIGRlIG1hcmNhY2FvIHVzYWRhIHBhcmEgZXN0cnV0dXJhciBlIGFwcmVzZW50YXIgY29udGV1ZG8gbmEgV29ybGQgV2lkZSBXZWIu" target="_blank" rel="noreferrer">
-    <img src="https://logospng.org/download/html-5/logo-html-5-768.png" width="40" height="40"/>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="40" height="40"/>
   </a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
