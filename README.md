@@ -33,6 +33,10 @@
   <a href="https://nodejs.org/en/about/branding" target="_blank" rel="noreferrer">
     <img src="https://nodejs.org/static/logos/nodejsLight.svg" width="40" height="40"/>
   </a>
+   <a href="https://www.google.com/search?sca_esv=219e40ae4658da95&sxsrf=AHTn8zrUJ05KXh0tF4I_Pa0wYCawOYE_uA:1746142217444&q=nest.js+logo&udm=2&fbs=ABzOT_BnMAgCWdhr5zilP5f1cnRvK9uZj3HA_MTJAA6lXR8yQElaIApxtef1-RKg2CcwxXZXWlQ6hBCdDT6diQURAAwgUtj_wq4LLUgBoz7X4yTlMd_EoCPdAX_4YDnH5kTHyIV8Jv4glJOk4Z51EU80dEk6LtVFTIynq4xD2EmPKoN-CiXU7qs1Si-MVgtDI-hfcS5DWWFNfaBltoQcnzd3WOCvf7il0g&sa=X&ved=2ahUKEwj5nOTUtoONAxX3H7kGHZQsNokQtKgLegQIFBAB&biw=1920&bih=959&dpr=1#vhid=k2YZ2XpbWCGpxM&vssid=mosaic" target="_blank" rel="noreferrer">
+    <img src="https://logowik.com/content/uploads/images/nestjs-node-js1721157583.logowik.com.webp" width="40" height="40"/>
+  </a>
+
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40"/>
   </a>
