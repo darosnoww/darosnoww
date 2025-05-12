@@ -47,3 +47,6 @@
 <p align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpkY2NyMWZyMDR4NTltYmo0aGhucHM3ajRyNzk5OXN1dG9mZXN3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bI8I9LaRXeN6E/giphy.gif" alt="GIF" width="300" />
 </p>
+<div style="display: flex; justify-content: flex-end; align-items: center; height: 100vh;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFrMmRvaTZrbXJtNjV5cm81eDBuYWJtb2o2MjR6bDN5dDZzZHNvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OVQjqII3omI4OaVnWO/giphy.gif" alt="GIF" style="max-width: 300px; max-height: 300px; margin-right: 20px;">
+</div>
