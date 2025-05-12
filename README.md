@@ -1,52 +1,51 @@
+<div style="font-family: Arial, sans-serif; color: #fff; background-color: #1e1e1e; padding: 20px; border-radius: 10px; display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="max-width: 70%;">
+    <h2 style="text-align: center; margin-bottom: 20px;">My Skills</h2>
+    <h3 style="margin-bottom: 10px; color: #00bcd4;">Languages</h3>
+    <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+      <a href="https://www.dart.dev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
+      </a>
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+      </a>
+      <a href="https://es.wikipedia.org/wiki/Archivo:JavaScript-logo.png" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="50" height="50"/>
+      </a>
+      <a href="https://www.typescriptlang.org/branding/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="typescript" width="50" height="50"/>
+      </a>
+    </div>
+    <h3 style="margin-bottom: 10px; color: #00bcd4;">Frameworks</h3>
+    <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/>
+      </a>
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="50"/>
+      </a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="tailwindcss" width="50" height="50"/>
+      </a>
+      <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://logowik.com/content/uploads/images/nestjs-node-js1721157583.logowik.com.webp" alt="nestjs" width="50" height="50"/>
+      </a>
+    </div>
+    <h3 style="margin-bottom: 10px; color: #00bcd4;">Tools</h3>
+    <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+      <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="50" height="50"/>
+      </a>
+      <a href="https://nodejs.org/en/about/branding" target="_blank" rel="noreferrer">
+        <img src="https://nodejs.org/static/logos/nodejsLight.svg" alt="nodejs" width="50" height="50"/>
+      </a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="50" height="50"/>
+      </a>
+    </div>
+  </div>
 
-### Languages and Tools:
-<p align="left">
-  <a href="https://www.dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  </a>
-   <a href="https://es.wikipedia.org/wiki/Archivo:JavaScript-logo.png" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
-  </a>
-</a>
-   <a href="https://www.typescriptlang.org/branding/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="40" height="40"/>
-  </a>
-  <a href="https://logospng.org/d/?l=aHR0cHM6Ly9sb2dvc3BuZy5vcmcvZG93bmxvYWQvaHRtbC01L2xvZ28taHRtbC01LTc2OC5wbmd8TG9nbyBIVE1MIDV8SFRNTDUgZSB1bWEgbGluZ3VhZ2VtIGRlIG1hcmNhY2FvIHVzYWRhIHBhcmEgZXN0cnV0dXJhciBlIGFwcmVzZW50YXIgY29udGV1ZG8gbmEgV29ybGQgV2lkZSBXZWIu" target="_blank" rel="noreferrer">
-    <img src="https://logospng.org/download/html-5/logo-html-5-768.png" width="40" height="40"/>
-  </a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="40" height="40"/>
-  </a>
-  </a>
-  <a href="https://nodejs.org/en/about/branding" target="_blank" rel="noreferrer">
-    <img src="https://nodejs.org/static/logos/nodejsLight.svg" width="40" height="40"/>
-  </a>
-   <a href="https://www.google.com/search?sca_esv=219e40ae4658da95&sxsrf=AHTn8zrUJ05KXh0tF4I_Pa0wYCawOYE_uA:1746142217444&q=nest.js+logo&udm=2&fbs=ABzOT_BnMAgCWdhr5zilP5f1cnRvK9uZj3HA_MTJAA6lXR8yQElaIApxtef1-RKg2CcwxXZXWlQ6hBCdDT6diQURAAwgUtj_wq4LLUgBoz7X4yTlMd_EoCPdAX_4YDnH5kTHyIV8Jv4glJOk4Z51EU80dEk6LtVFTIynq4xD2EmPKoN-CiXU7qs1Si-MVgtDI-hfcS5DWWFNfaBltoQcnzd3WOCvf7il0g&sa=X&ved=2ahUKEwj5nOTUtoONAxX3H7kGHZQsNokQtKgLegQIFBAB&biw=1920&bih=959&dpr=1#vhid=k2YZ2XpbWCGpxM&vssid=mosaic" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/nestjs-node-js1721157583.logowik.com.webp" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1kNTNkamN3Z3VteDNwbXYyODlpdDVmeG0yejV6bjl6ZHNhOXdqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Hw0wIr1YL75VC/giphy.gif" alt="GIF" width="300" />
-</p>
-<p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpkY2NyMWZyMDR4NTltYmo0aGhucHM3ajRyNzk5OXN1dG9mZXN3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bI8I9LaRXeN6E/giphy.gif" alt="GIF" width="300" />
-</p>
-<div style="display: flex; justify-content: flex-end; align-items: center; height: 100vh;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFrMmRvaTZrbXJtNjV5cm81eDBuYWJtb2o2MjR6bDN5dDZzZHNvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OVQjqII3omI4OaVnWO/giphy.gif" alt="GIF" style="max-width: 300px; max-height: 300px; margin-right: 20px;">
+  <div style="max-width: 25%; text-align: center;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFrMmRvaTZrbXJtNjV5cm81eDBuYWJtb2o2MjR6bDN5dDZzZHNvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OVQjqII3omI4OaVnWO/giphy.gif" alt="Anime GIF" style="max-width: 100%; border-radius: 10px;">
+  </div>
 </div>
