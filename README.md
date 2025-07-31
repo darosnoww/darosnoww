@@ -41,5 +41,5 @@
   </a>
 </p>
 <div style="display: flex; justify-content: flex-end; align-items: center; height: 100vh;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFrMmRvaTZrbXJtNjV5cm81eDBuYWJtb2o2MjR6bDN5dDZzZHNvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OVQjqII3omI4OaVnWO/giphy.gif" alt="GIF" style="max-width: 300px; max-height: 300px; margin-right: 20px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXl4OTF5NnY3bTd1YXo0eWNvb3ltcXBoNDJ4dTFqYXZtYnpzNWFraiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NyInHmE9k7vDG/giphy.gif" alt="GIF" style="max-width: 300px; max-height: 300px; margin-right: 20px;">
 </div>
