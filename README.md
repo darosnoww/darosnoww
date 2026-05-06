@@ -1,7 +1,7 @@
 <h1 align="center">ABOUT ME 👋</h1>
 
 <p align="center">
-  Soy un desarrollador apasionado por Java y el desarrollo web 🚀
+  Soy un desarrollador apasionado por la programación y el desarrollo web 🚀
 </p>
 
 <p align="center">
