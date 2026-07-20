@@ -1,14 +1,12 @@
 <p align="center">
   <a href="https://github.com/darosnoww">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=30&duration=3000&pause=2000&color=72EFDD&center=true&vCenter=true&width=800&height=100&lines=FERNANDO+TASAYCO" alt="Minecraft Typo" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=30&duration=3000&pause=2000&color=FFFCDB&center=true&vCenter=true&width=800&height=100&lines=FERNANDO+TASAYCO" alt="Minecraft Typo" />
   </a>
 </p>
 
 # <p align="center">🚀 Software Developer</p>
 
-<p align="center">
-  Apasionado por el desarrollo de software, arquitectura backend y creación de aplicaciones web escalables 🚀
-</p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
