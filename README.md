@@ -72,15 +72,6 @@
 * Full Stack Projects
 
 ---
-
-## 📈 Goals
-
-* Become a highly skilled Software Engineer.
-* Master backend architecture and scalable systems.
-* Deepen knowledge in cloud and DevOps technologies.
-* Build impactful real-world applications.
-
----
 <h3 align="center">🐍 GitHub Contributions Heatmap</h3>
 <p align="center">
   <picture>
