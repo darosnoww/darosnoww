@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Fernando%20Daniel&fontSize=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer&descSize=20&descAlignY=65" width="100%" alt="Top Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B5CFF,100:5232ED&height=220&section=header&text=Fernando%20Daniel&fontSize=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer&descSize=20&descAlignY=65" width="100%" alt="Top Banner" />
 </p>
-
 # <p align="center">🚀 Software Developer</p>
 
 <p align="center">
